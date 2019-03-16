@@ -1,0 +1,24 @@
+Name of Quantlet : SPL_CryptoPortfolio
+
+Published in :  'Statistical programming languages - Student Project on ''Portfolio Management for Cryptocurrencies'' '
+
+Description : 'Calculates and evaluates static and dynamic portfolios of cryptocurrencies using different techniques.'
+
+Keywords : 
+ - portfolio
+ - crypto
+ - investment
+ - returns
+ - bitcoin
+
+See also : 
+
+Author : Batuhan Ipekci, Dorde Dotlic
+
+Submitted :  Sat, Feb 16 2019 by Dorde Dotlic
+
+Datafile : token.rds
+
+Input: 'topCrypto_static.R', 'StaticPortfolio.R', 'DynamicPortfolio.R'
+
+Output:  'staticPortfolio_results.RDS', 'dynamicPortfolio_results.RDS'
